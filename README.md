@@ -1,6 +1,6 @@
 # Ghidra
 
-Ghidra is a software reverse engineering originally developed by the National Security Agency (NSA). In March 2019, the NSA open-sourced Ghidra and made it publicly available.
+Ghidra is a software reverse engineering tool originally developed by the National Security Agency (NSA). In March 2019, the NSA open-sourced Ghidra and made it publicly available.
 
 This is a community-oriented fork of Ghidra called Ghidra CE. <why?>
 
