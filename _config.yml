@@ -1,0 +1,9 @@
+title: Ghidra CE
+logo: /assets/img/logo.png
+description: Ghidra Community Edition
+show_downloads: true
+theme: jekyll-theme-minimal
+github:
+    repository_url: https://github.com/ghidrace/ghidrace
+    zip_url: https://github.com/ghidrace/ghidrace
+    releases_url: https://github.com/ghidrace/ghidrace
